@@ -85,4 +85,5 @@ You can have a look to his tutorial here: [Power BI for Data Analytics - Full Co
 
 This is my first ever data project I made. It was made to further enhance my Power BI skills for my upcoming internship in data where my tutor told me to learn about that tool.
 I'm very satisfied of the outcome even though I still have some issues with the formatting of the values in the data model.
+
 I now know the very basics of power BI and I'm now ready to create very insightful and beautiful charts.
