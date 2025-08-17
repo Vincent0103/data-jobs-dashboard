@@ -41,3 +41,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 * 🧩 Interactive Slicers for Filtering
 
 [**View Full Project 2 Details (README)**](./data-jobs-v2/README.md)
+
+## About This Portfolio
+
+Each dashboard linked has it's own readme files, click on the links to have more in-depth information about the projects themselves such as used Power BI techniques, concepts learnt, different features, etc.
